@@ -6,4 +6,4 @@ Small Processes of Operating System
 Disk Scheduling \
 Virtual File System \
 CLI \
-Banker Algorithm \
+Banker Algorithm
